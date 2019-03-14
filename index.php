@@ -18,11 +18,6 @@
         <input type="text" name="LastName"><br>
     </form>
 
-    danial   iahsdliajjdlaja
-    ajbflaflknqnenfk
-    lkanflkna
-    a,jcb
-
 </body>
 <script src="js/script.js"></script>
 </html> 
